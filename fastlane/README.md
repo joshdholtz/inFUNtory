@@ -15,15 +15,37 @@ Install _fastlane_ using
 or alternatively using `brew cask install fastlane`
 
 # Available Actions
+### bump
+```
+fastlane bump
+```
+
+
+----
+
+## iOS
+### ios omg
+```
+fastlane ios omg
+```
+
+### ios build
+```
+fastlane ios build
+```
+
+### ios release
+```
+fastlane ios release
+```
+
+
+----
+
 ## Mac
 ### mac omg
 ```
 fastlane mac omg
-```
-
-### mac bump
-```
-fastlane mac bump
 ```
 
 ### mac build
